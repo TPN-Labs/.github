@@ -22,6 +22,9 @@ We have several repositories where we store our work, including:
 If you're interested in working with us or have any questions, please don't hesitate to contact us:
 
 🌐 Website: [TPN-LABS.COM](https://tpn-labs.com)
+
 📞 Phone: +40 756 421 727
+
 📧 Email: office@tpn-labs.com
+
 💼 LinkedIn: https://www.linkedin.com/company/tpn-labs
